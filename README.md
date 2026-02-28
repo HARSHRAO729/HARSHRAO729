@@ -6,32 +6,29 @@ I’m a developer focused on building AI-driven solutions that bridge the gap be
 
 ---
 
-### 🚀 Featured Project: FormAlly
-* **Role:** Lead Engineer
-* **Description:** An intelligent document assistant designed to streamline administrative workflows and enhance civic accessibility.
-* **Impact:** Launched via CivicEase to improve document processing efficiency.
-
----
-
 ### 🛠️ Professional Experience
 
 * **CivicEase** | *Co-Founder & Lead Engineer*
-    * Leading technical strategy and development for civic-tech solutions.
-    * Overseeing the deployment of AI-integrated tools for public utility.
+    * Leading technical strategy and architecting **FormAlly**, a flagship universal document analysis platform.
+    * Managing the complete technical stack—from React (Vite) frontend to Python backend integration with Google Gemini.
 
 ---
 
-### 💻 Technical Stack
+### 💻 Technical Stack & Certifications
 
 * **Languages:** Python, C++, C, SQL, JavaScript (React)
-* **Specializations:** Generative AI, Data Structures & Algorithms, Computer Organization
-* **Current Learning:** Harvard CS50 Suite (CS50x, CS50P, CS50SQL)
+* **Specializations:** Generative AI, LLMs, Model Context Protocol (MCP), DSA, COA
+* **Certifications:**
+    * **Google:** AI Essentials & Prompt to Prototype
+    * **Adobe:** Design Fundamentals with AI-1
+    * **Coursera/UMich:** Python for Everybody Specialization
+    * **Google Cloud:** Cloud Innovator
 
 ---
 
 ### 🔬 Research & Future Work
 
-* **Interests:** Exploring practical applications of Large Language Models (LLMs) and Model Context Protocol (MCP).
+* **Interests:** Practical applications of Large Language Models (LLMs) and Model Context Protocol (MCP).
 * **Publications:** *[Upcoming]* Currently researching frameworks for AI-integrated civic infrastructure.
 
 ---
@@ -39,19 +36,20 @@ I’m a developer focused on building AI-driven solutions that bridge the gap be
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHRAO729&show_icons=true&theme=minimalist&count_private=true" alt="Harsh's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHRAO729&layout=compact&theme=minimalist&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=HARSHRAO729&show_icons=true&theme=minimalist&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHRAO729&layout=compact&theme=minimalist&hide_border=true&count_private=true" alt="Top Languages" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHRAO729&theme=minimalist&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHRAO729&theme=minimalist&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📬 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/harshrao](https://linkedin.com/in/harsh-rao-dev)
+* **LinkedIn:** [linkedin.com/in/harsh-rao-dev](https://www.linkedin.com/in/harsh-rao-dev)
+* **Google Developer Profile:** [g.dev/harsh-rao](https://g.dev/harsh-rao)
 * **Location:** Ahmedabad, India 🇮🇳
 
 ---
