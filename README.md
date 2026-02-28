@@ -9,8 +9,8 @@ I’m a developer focused on building AI-driven solutions that bridge the gap be
 ### 🛠️ Professional Experience
 
 * **CivicEase** | *Co-Founder & Lead Engineer*
-    * Leading technical strategy and architecting **FormAlly**, a flagship universal document analysis platform.
-    * Managing the complete technical stack—from React (Vite) frontend to Python backend integration with Google Gemini.
+    * Architecting **FormAlly**, a flagship universal document analysis platform designed to make complex legal and governmental documents accessible.
+    * Owning the complete technical stack—from frontend in **React (Vite)** to backend engineering in **Python** with **Google Gemini** integration.
 
 ---
 
@@ -18,11 +18,12 @@ I’m a developer focused on building AI-driven solutions that bridge the gap be
 
 * **Languages:** Python, C++, C, SQL, JavaScript (React)
 * **Specializations:** Generative AI, LLMs, Model Context Protocol (MCP), DSA, COA
-* **Certifications:**
-    * **Google:** AI Essentials & Prompt to Prototype
+* **Certifications & Achievements:**
+    * **Google Cloud:** [Cloud Innovator](https://g.dev/harsh-rao)
+    * **Google:** [AI Essentials](https://g.dev/harsh-rao) & [Prompt to Prototype](https://g.dev/harsh-rao)
     * **Adobe:** Design Fundamentals with AI-1
     * **Coursera/UMich:** Python for Everybody Specialization
-    * **Google Cloud:** Cloud Innovator
+    * **Google Developer:** [15+ Earned Badges](https://g.dev/harsh-rao) (Gemini Enterprise, Firebase Studio, DevFest)
 
 ---
 
@@ -36,12 +37,12 @@ I’m a developer focused on building AI-driven solutions that bridge the gap be
 ### 📊 GitHub Analytics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HARSHRAO729&show_icons=true&theme=minimalist&count_private=true&hide_border=true" alt="Harsh's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHRAO729&layout=compact&theme=minimalist&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=HARSHRAO729&show_icons=true&theme=minimalist&count_private=true" alt="Harsh's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHRAO729&layout=compact&theme=minimalist&count_private=true" alt="Top Languages" height="150" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHRAO729&theme=minimalist&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHRAO729&theme=minimalist" alt="GitHub Streak" />
 </p>
 
 ---
