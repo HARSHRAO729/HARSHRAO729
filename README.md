@@ -8,14 +8,10 @@ Based in Ahmedabad, Gujarat 🇮🇳 | Passionate about building elegant, scalab
 
 ## 📊 GitHub Stats & Badges
 
-![GitHub followers](https://img.shields.io/github/followers/HARSHRAO729?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/HARSHRAO729?style=social)
-
-### Profile Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HARSHRAO729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/HARSHRAO729)
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHRAO729&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/HARSHRAO729)
+### Quick Stats
+- ![GitHub followers](https://img.shields.io/github/followers/HARSHRAO729?style=flat-square&logo=github) 
+- ![GitHub Repos](https://img.shields.io/badge/Repositories-Active-brightgreen?style=flat-square&logo=github)
+- ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=flat-square&logo=open-source-initiative)
 
 ---
 
@@ -155,7 +151,7 @@ Building premium, user-centric digital products with cutting-edge technology:
 - 🎖️ **Firebase Studio** - Real-time cloud infrastructure
 - 🎖️ **DevFest Participant** - Community advocate
 
-### Certifications
+### Professional Certifications
 - **Design Fundamentals with AI** (Adobe) - Visual hierarchy and generative AI tools
 - **Google AI Essentials** (Google) - Foundational AI principles and practical applications
 - **Python for Everybody** (University of Michigan) - Data structures and APIs
@@ -173,9 +169,14 @@ Building premium, user-centric digital products with cutting-edge technology:
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 Recent Activity & Contributions
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=HARSHRAO729&theme=tokyo-night&hide_border=true&area=true)
+Here's what I've been working on:
+- 🔧 Building and shipping CivicEase products (FormAlly, ClockSpace)
+- 🚀 Contributing to open-source macOS development
+- 🤖 Exploring advanced AI/ML with Gemini API
+- 📚 Learning cloud infrastructure on Google Cloud Platform
+- 🎨 Crafting beautiful user experiences with SwiftUI
 
 ---
 
@@ -198,6 +199,7 @@ Building premium, user-centric digital products with cutting-edge technology:
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashish729@gmail.com)
 [![Portfolio](https://img.shields.io/badge/CivicEase-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://www.civicease.systems)
 
+### Direct Contact
 - **Email:** [rashish729@gmail.com](mailto:rashish729@gmail.com)
 - **LinkedIn:** [linkedin.com/in/harshi-rao729](https://linkedin.com/in/harshi-rao729)
 - **GitHub:** [@HARSHRAO729](https://github.com/HARSHRAO729)
@@ -226,17 +228,6 @@ I'm always interested in:
 - 🚀 Exploring Gemini API and advanced AI/ML applications
 
 Feel free to reach out! Let's build something amazing together. 🚀
-
----
-
-### Badge Legend
-| Badge Type | Purpose |
-|-----------|---------|
-| ![GitHub stats](https://img.shields.io/badge/GitHub%20Stats-000000?style=flat-square) | Overall GitHub activity and contributions |
-| ![Language Stats](https://img.shields.io/badge/Language%20Stats-000000?style=flat-square) | Most used programming languages |
-| ![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square) | Google Developer credentials & achievements |
-| ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-000000?style=flat-square) | Technologies & tools you work with |
-| ![Social Links](https://img.shields.io/badge/Social%20Links-000000?style=flat-square) | Quick connection links |
 
 ---
 
