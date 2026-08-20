@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Harsh Rao
 
-**Full Stack Engineer | Co-Founder & Lead Engineer @ CivicEase | AI/ML Enthusiast | Google Developer**
+**Full Stack Engineer | Founder & Lead Engineer @ CivicEase | AI/ML Enthusiast | Google Developer**
 
 Based in Ahmedabad, Gujarat 🇮🇳 | Passionate about building elegant, scalable solutions
 
@@ -74,7 +74,7 @@ I'm passionate about **system design, AI/ML integration, and building products a
 
 ## 🏢 Entrepreneurial Journey
 
-### **CivicEase** - Co-Founder & Lead Engineer
+### **CivicEase** - Founder & Lead Engineer
 **Dec 2025 - Present** | Ahmedabad, India
 
 Building premium, user-centric digital products with cutting-edge technology:
